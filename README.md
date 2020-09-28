@@ -1,6 +1,6 @@
 # Mails Processing System
 
-**It is a web service that accepts http requests and returns responses. **
+**It is a web service that accepts http requests and returns responses. ****
 
 ***For a detailed tutorial on how to run this project, please check the "user_doc.pdf" in the folder, thank you!***
 
