@@ -17,21 +17,21 @@ test.email@gmail.com and test.email@fetchrewards.com are two different email add
 **Request Body 1:**
 {
   "emails_list":["test.email@gmail.com","test.email@fetchrewards.com"]
-}
+},
 **Response Body 1:**
 {
     "number_of_unique_emails": 2
-}
+}.
 
 **Request Body 2:**
 {
 "emails_list":["test.email@gmail.com","test.email+spam@gmail.com","testemail@gmail.com"]
-}
+},
 
 **Response Body 2:**
 {
     "number_of_unique_emails": 1
-}
+}.
 
 **Thanks for reading, have a nice day 😊！**
 
